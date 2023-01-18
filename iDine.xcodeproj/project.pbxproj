@@ -19,6 +19,7 @@
 		DF32A5CD29780944009E6A6D /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF32A5CC29780944009E6A6D /* ItemDetail.swift */; };
 		DF32A5CF2978146E009E6A6D /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF32A5CE2978146E009E6A6D /* OrderView.swift */; };
 		DF32A5D1297815D2009E6A6D /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF32A5D0297815D2009E6A6D /* MainView.swift */; };
+		DF32A5D329781C20009E6A6D /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF32A5D229781C20009E6A6D /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		DF32A5CC29780944009E6A6D /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		DF32A5CE2978146E009E6A6D /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		DF32A5D0297815D2009E6A6D /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		DF32A5D229781C20009E6A6D /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 			children = (
 				DF32A5C22977F284009E6A6D /* Helper.swift */,
 				DF32A5B42977F1EE009E6A6D /* iDineApp.swift */,
+				DF32A5D229781C20009E6A6D /* CheckoutView.swift */,
 				DF32A5C42977F293009E6A6D /* Menu.swift */,
 				DF32A5C52977F294009E6A6D /* Order.swift */,
 				DF32A5C82977F29B009E6A6D /* menu.json */,
@@ -164,6 +167,7 @@
 			files = (
 				DF32A5CD29780944009E6A6D /* ItemDetail.swift in Sources */,
 				DF32A5D1297815D2009E6A6D /* MainView.swift in Sources */,
+				DF32A5D329781C20009E6A6D /* CheckoutView.swift in Sources */,
 				DF32A5CF2978146E009E6A6D /* OrderView.swift in Sources */,
 				DF32A5B72977F1EE009E6A6D /* ContentView.swift in Sources */,
 				DF32A5B52977F1EE009E6A6D /* iDineApp.swift in Sources */,
